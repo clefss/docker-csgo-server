@@ -4,7 +4,8 @@
 ![logo](https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/CS-GO_Logo.svg/1920px-CS-GO_Logo.svg.png)
 
 # Supported tags
-- [`1.0`, `1`, `latest` (_Dockerfile_)](https://github.com/clefss/docker-csgo-server/blob/v1.0/Dockerfile)
+- [`1.1`, `1`, `latest` (_Dockerfile_)](https://github.com/clefss/docker-csgo-server/blob/v1.1/Dockerfile)
+- [`1.0` (_Dockerfile_)](https://github.com/clefss/docker-csgo-server/blob/v1.0/Dockerfile)
 
 # Docker compose - Example
     csgo-server:
