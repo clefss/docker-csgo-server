@@ -47,7 +47,7 @@ ENV TZ=UTC \
     WORKSHOP_START_MAP=125438255 \
     MAX_PLAYERS=11 \
     TICKRATE=128 \
-    EXTRA_PARAMS="+sv_pure 0 +game_type 0 +game_mode 2 +sv_region 3 +mapgroup mg_active +map de_dust2 -secure -nobreakpad"
+    EXTRA_PARAMS="+sv_pure 0 +game_type 0 +game_mode 1 +sv_region 3 +mapgroup mg_active +map de_dust2 -secure -nobreakpad"
 
 # last settings
 USER steam
