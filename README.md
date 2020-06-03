@@ -80,5 +80,5 @@ Default: `128`
 
 ### `EXTRA_PARAMS`
 Custom command line extra parameters.<br />
-Example: `TICKRATE: "+sv_pure 0 +game_type 0 +game_mode 2 +sv_region 3 +mapgroup mg_active +map de_dust2 -secure -nobreakpad"`<br />
-Default: `+sv_pure 0 +game_type 0 +game_mode 2 +sv_region 3 +mapgroup mg_active +map de_dust2 -secure -nobreakpad`
+Example: `EXTRA_PARAMS: "+sv_pure 0 +game_type 0 +game_mode 2"`<br />
+Default: `+sv_pure 0 +game_type 0 +game_mode 1 +sv_region 3 +mapgroup mg_active +map de_dust2 -secure -nobreakpad`
